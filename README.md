@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Saim Bilal.
-- 👀 I’m a Front-End Web Developer.
-- 💞️ HTMl/CSS, JS, Next JS, Tailwind CSS, PHP.
+- 👀 I’m a Front-End Web Developer and ML Engineer.
+- 💞️ HTMl/CSS, JS, Vue JS, Tailwind CSS, Python, ML, AI.
 - 🌱 I’m currently learning Next JS.
 - 💞️ I’m looking to collaborate on Mega Web-Developing Projects happening around the world.
 - 📫 Reach me through my Email : @sbdesigns42@gmail.com.
