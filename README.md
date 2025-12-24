@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Saim Bilal.
 - 👀 I’m a Front-End Web Developer and ML Engineer.
-- 💞️ HTMl/CSS, JS, Vue JS, Tailwind CSS, Python, ML, AI.
-- 🌱 I’m currently learning Next JS.
-- 💞️ I’m looking to collaborate on Mega Web-Developing Projects happening around the world.
-- 📫 Reach me through my Email : developwithsaim@gmail.com.
+- 💞️ HTML/CSS, JS, Next JS, Tailwind CSS, TypeScript, Python, ML, AI.
+- 🌱 I’m currently learning Backend Development.
+- 💞️ I’m currently working on a Mega Project Skolevo.
+- 📫 Reach me through my Email: developwithsaim@gmail.com.
 - ⚡ Basically a Funny Coder.
