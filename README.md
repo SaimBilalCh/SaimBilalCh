@@ -3,5 +3,5 @@
 - 💞️ HTMl/CSS, JS, Vue JS, Tailwind CSS, Python, ML, AI.
 - 🌱 I’m currently learning Next JS.
 - 💞️ I’m looking to collaborate on Mega Web-Developing Projects happening around the world.
-- 📫 Reach me through my Email : @sbdesigns42@gmail.com.
+- 📫 Reach me through my Email : developwithsaim@gmail.com.
 - ⚡ Basically a Funny Coder.
