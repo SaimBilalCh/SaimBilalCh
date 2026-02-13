@@ -5,12 +5,12 @@
 
 - About Me:
   - I’m a frontend developer passionate about crafting clean UI, structured codebases, and seamless user experiences.
-I focus on:
-  - Performance-optimized web applications
-  - Scalable component architecture
-  - Clean, responsive UI design
-  - Type-safe development with TypeScript
-  - Modern React patterns & best practices
+      -  I focus on:
+          - Performance-optimized web applications
+          - Scalable component architecture
+          - Clean, responsive UI design
+          - Type-safe development with TypeScript
+          - Modern React patterns & best practices
 
 I believe good frontend development is not just about visuals, it's about structure, maintainability, and performance.
 . Tech Stack:
