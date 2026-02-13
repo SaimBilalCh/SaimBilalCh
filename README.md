@@ -1,10 +1,10 @@
 *Hi, I'm Saim!*
 
 - Frontend Web Developer:
-Specialized in building modern, scalable, and performance-focused web applications using Next.js, TypeScript, and Tailwind CSS.
+  - Specialized in building modern, scalable, and performance-focused web applications using Next.js, TypeScript, and Tailwind CSS.
 
 - About Me:
-I’m a frontend developer passionate about crafting clean UI, structured codebases, and seamless user experiences.
+  - I’m a frontend developer passionate about crafting clean UI, structured codebases, and seamless user experiences.
 I focus on:
   - Performance-optimized web applications
   - Scalable component architecture
