@@ -40,3 +40,5 @@ I believe good frontend development is not just about visuals, it's about struct
 
 - Let's Connect:
    - If you're looking to collaborate on modern web projects or frontend-heavy applications, feel free to reach out.
+   - Email: developwithsaim@gmail.com
+   - LinkedIn: https://www.linkedin.com/in/saim-bilal-b0758226a/
