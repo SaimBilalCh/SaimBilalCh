@@ -1,5 +1,36 @@
-# 💫 About Me:
-I am basically a web developer working with Next.js + Tailwind CSS + Typescript.<br>I am a resident of Islamabad.<br>I mostly focus on the Frontend development.<br>My email is developwithsaim@gmail.com.
+## 👋 Hi there, I'm a Frontend Developer!
+
+I'm a passionate **Frontend Web Developer** based in **Islamabad, Pakistan**, focused on building modern, fast, and scalable web applications. I primarily work with **Next.js, TypeScript, and Tailwind CSS**, crafting clean UI and smooth user experiences.
+
+### What I Do
+
+* Build responsive and performant web applications
+* Create modern UI with **Tailwind CSS**
+* Develop scalable frontend architectures using **Next.js**
+* Write type-safe code with **TypeScript**
+
+### About Me
+
+* Based in **Islamabad, Pakistan**
+* Focused mainly on **Frontend Development**
+* Passionate about clean code, performance, and UI/UX
+* Always exploring new tools and best practices in modern web development
+
+### Tech Stack
+
+* **Frameworks:** Next.js, React
+* **Languages:** TypeScript, JavaScript
+* **Styling:** Tailwind CSS, CSS3
+* **Tools:** Git, GitHub, VS Code
+
+### Current Focus
+
+I'm continuously improving my frontend skills and exploring better ways to build **fast, accessible, and user-friendly web applications**.
+
+---
+
+⭐ *Feel free to explore my repositories and projects!*
+
 
 
 ## 🌐 Socials:
