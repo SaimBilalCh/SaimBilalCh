@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://developwithsaim.vercel.app/Profile-Picture.jpeg" width="140" height="140" alt="Saim Bilal" style="border-radius: 50%;" />
+<img src="https://developwithsaim.vercel.app/Profile-Picture.jpeg" width="140" alt="Saim Bilal" style="border-radius: 50%;" />
 
 # Saim Bilal
 
