@@ -7,7 +7,7 @@
 **Full-Stack Developer & ML Engineer** · Islamabad, Pakistan
 
 I build interfaces, systems and models that ship, from production web apps to ML pipelines.<br/>
-Currently a front-end developer at **Crafting Colons**, open to full-time roles and freelance work.
+Currently a front-end developer at **Crafting Colors**, open to full-time roles and freelance work.
 
 <a href="https://developwithsaim.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-developwithsaim-0077B5?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
