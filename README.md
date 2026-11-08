@@ -48,12 +48,12 @@ const saim = {
 
 ## Tech Stack
 
-<table>
+<table width="100%">
 <tr>
-<td align="center" width="50%"><b>Languages</b></td>
-<td align="center" width="50%"><b>Frontend</b></td>
-<td align="center" width="50%"><b>Backend & Data</b></td>
-<td align="center" width="50%"><b>ML & Tools</b></td>
+<td align="center" width="25%"><b>Languages</b></td>
+<td align="center" width="25%"><b>Frontend</b></td>
+<td align="center" width="25%"><b>Backend & Data</b></td>
+<td align="center" width="25%"><b>ML & Tools</b></td>
 </tr>
 <tr>
 <td align="center">
