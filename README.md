@@ -48,7 +48,7 @@ const saim = {
 
 ## Tech Stack
 
-<div style="display: flex; width: 100%; flex-wrap: wrap;">
+<div style="display: flex; flex-direction:row; width: 100%; flex-wrap: wrap;">
 
   <div style="width: 25%; text-align: center;">
     <b>Languages</b>
