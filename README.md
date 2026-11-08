@@ -1,73 +1,115 @@
-<br clear="both">
+<div align="center">
 
-<h2 data-importer="text" align="center">Hi 👋! My name is Saim Bilal and I'm a Web Developer from Islamabad, Pakistan.</h2>
+<img src="https://developwithsaim.vercel.app/Profile-Picture.jpeg" width="140" height="140" alt="Saim Bilal" style="border-radius: 50%;" />
 
-###
+# Saim Bilal
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/SaimBilalCh/SaimBilalCh/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/SaimBilalCh/SaimBilalCh/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+**Full-Stack Developer & ML Engineer** · Islamabad, Pakistan
+
+I build interfaces, systems and models that ship — from production web apps to ML pipelines.<br/>
+Currently a front-end developer at **Crafting Colors**, open to full-time roles and freelance work.
+
+<a href="https://developwithsaim.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-developwithsaim-0077B5?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+<a href="https://www.linkedin.com/in/saim-bilal-b0758226a/">
+  <img src="https://img.shields.io/badge/LinkedIn-Saim_Bilal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:developwithsaim@gmail.com">
+  <img src="https://img.shields.io/badge/Email-developwithsaim%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<br/>
+<img src="https://img.shields.io/github/followers/SaimBilalCh?style=for-the-badge&label=Followers&color=0077B5&labelColor=0D1117" alt="GitHub followers" />
+<img src="https://img.shields.io/badge/Location-Islamabad,_PK-2EA043?style=for-the-badge&labelColor=0D1117" alt="Location: Islamabad, Pakistan" />
+<img src="https://komarev.com/ghpvc/?username=SaimBilalCh&style=for-the-badge&color=0077B5&labelColor=0D1117&label=Profile+views" alt="Profile views" />
+
 </div>
 
-###
+<br/>
 
-<img data-importer="image" align="right" height="250" src="https://developwithsaim.vercel.app/Profile-Picture.jpeg"  />
+## About
 
-###
+```ts
+const saim = {
+  role: "Full-Stack Developer & ML Engineer",
+  location: "Islamabad, Pakistan",
+  focus: ["Web platforms", "APIs & data layers", "Applied ML"],
+  stack: ["TypeScript", "Python", "React / Next.js", "FastAPI", "PostgreSQL"],
+  currently: "Shipping production web apps at Crafting Colors",
+  openTo: ["Full-time roles", "Freelance projects"],
+};
+```
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-</div>
+<br/>
 
-###
+## Tech Stack
 
-<div data-importer="socials" align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+<table>
+<tr>
+<td align="center" width="25%"><b>Languages</b></td>
+<td align="center" width="25%"><b>Frontend</b></td>
+<td align="center" width="25%"><b>Backend & Data</b></td>
+<td align="center" width="25%"><b>ML & Tools</b></td>
+</tr>
+<tr>
+<td align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32" alt="TypeScript" title="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="JavaScript" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="Python" title="Python" />
+</td>
+<td align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" alt="React" title="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="32" alt="Next.js" title="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" alt="HTML5" title="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" alt="CSS3" title="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="32" alt="Tailwind CSS" title="Tailwind CSS" />
+</td>
+<td align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="32" alt="FastAPI" title="FastAPI" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="32" alt="PostgreSQL" title="PostgreSQL" />
+</td>
+<td align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="32" alt="TensorFlow" title="TensorFlow" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="Git" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="32" alt="Figma" title="Figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="32" alt="VS Code" title="VS Code" />
+</td>
+</tr>
+</table>
 
-###
+<br/>
 
-<br clear="both">
+## GitHub Activity
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/SaimBilalCh/SaimBilalCh/snake-output/snake.svg" alt="Snake animation" />
+<div align="center">
 
-###
-
-###
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SaimBilalCh/SaimBilalCh/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SaimBilalCh/SaimBilalCh/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SaimBilalCh/SaimBilalCh/pacman-output/pacman-contribution-graph.svg?game=pacman">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SaimBilalCh/SaimBilalCh/stats-output/stats.svg" />
+  <img src="https://raw.githubusercontent.com/SaimBilalCh/SaimBilalCh/stats-output/stats.svg" height="165" alt="GitHub stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SaimBilalCh/SaimBilalCh/languages-output/languages.svg" />
+  <img src="https://raw.githubusercontent.com/SaimBilalCh/SaimBilalCh/languages-output/languages.svg" height="165" alt="Top languages" />
 </picture>
 
-###
+### Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SaimBilalCh/SaimBilalCh/pacman-output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SaimBilalCh/SaimBilalCh/pacman-output/pacman-contribution-graph.svg" />
+  <img alt="Contribution graph" src="https://raw.githubusercontent.com/SaimBilalCh/SaimBilalCh/pacman-output/pacman-contribution-graph.svg" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SaimBilalCh/SaimBilalCh/snake-output/snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SaimBilalCh/SaimBilalCh/snake-output/snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/SaimBilalCh/SaimBilalCh/snake-output/snake.svg" />
+</picture>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <sub>Building things that work — reach me at <a href="mailto:developwithsaim@gmail.com">developwithsaim@gmail.com</a></sub>
+</div>
