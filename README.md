@@ -50,7 +50,7 @@ const saim = {
 
 <div style="display: flex;">
 
-  <div style="width: 25%; text-align: center;">
+  <div style="text-align: center;">
     <b>Languages</b>
     <div>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32" alt="TypeScript" title="TypeScript" />
@@ -59,7 +59,7 @@ const saim = {
     </div>
   </div>
 
-  <div style="width: 25%; text-align: center;">
+  <div style="text-align: center;">
     <b>Frontend</b>
     <div>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" alt="React" title="React" />
@@ -70,7 +70,7 @@ const saim = {
     </div>
   </div>
 
-  <div style="width: 25%; text-align: center;">
+  <div style="text-align: center;">
     <b>Backend &amp; Data</b>
     <div>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="32" alt="FastAPI" title="FastAPI" />
@@ -78,7 +78,7 @@ const saim = {
     </div>
   </div>
 
-  <div style="width: 25%; text-align: center;">
+  <div style="text-align: center;">
     <b>ML &amp; Tools</b>
     <div>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="32" alt="TensorFlow" title="TensorFlow" />
