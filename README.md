@@ -104,5 +104,5 @@ const saim = {
 <br/>
 
 <div align="center">
-  <sub>Building things that work — reach me at <a href="mailto:developwithsaim@gmail.com">developwithsaim@gmail.com</a></sub>
+  <sub>Building things that work, reach me at <a href="mailto:developwithsaim@gmail.com">developwithsaim@gmail.com</a></sub>
 </div>
