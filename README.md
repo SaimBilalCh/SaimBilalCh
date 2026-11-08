@@ -29,6 +29,9 @@ Currently a front-end developer at **Crafting Colors**, open to full-time roles 
 
 ## About
 
+I'm a full-stack developer and software/ML engineer who builds **interfaces, systems and models that ship**.
+Four years of CS gave me the theory; since June 2025 I've been putting it into production as a front-end developer at **Crafting Colors**, alongside shipping products of my own.
+
 ```ts
 const saim = {
   role: "Full-Stack Developer & ML Engineer",
@@ -79,20 +82,9 @@ const saim = {
 
 <br/>
 
-## GitHub Activity
+## Contribution Graph
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SaimBilalCh/SaimBilalCh/stats-output/stats.svg" />
-  <img src="https://raw.githubusercontent.com/SaimBilalCh/SaimBilalCh/stats-output/stats.svg" height="165" alt="GitHub stats" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SaimBilalCh/SaimBilalCh/languages-output/languages.svg" />
-  <img src="https://raw.githubusercontent.com/SaimBilalCh/SaimBilalCh/languages-output/languages.svg" height="165" alt="Top languages" />
-</picture>
-
-### Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SaimBilalCh/SaimBilalCh/pacman-output/pacman-contribution-graph-dark.svg" />
