@@ -6,8 +6,8 @@
 
 **Full-Stack Developer & ML Engineer** · Islamabad, Pakistan
 
-I build interfaces, systems and models that ship — from production web apps to ML pipelines.<br/>
-Currently a front-end developer at **Crafting Colors**, open to full-time roles and freelance work.
+I build interfaces, systems and models that ship, from production web apps to ML pipelines.<br/>
+Currently a front-end developer at **Crafting Colons**, open to full-time roles and freelance work.
 
 <a href="https://developwithsaim.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-developwithsaim-0077B5?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
@@ -30,7 +30,7 @@ Currently a front-end developer at **Crafting Colors**, open to full-time roles 
 ## About
 
 I'm a full-stack developer and software/ML engineer who builds **interfaces, systems and models that ship**.
-I'm studying **BS Software Engineering at NUML (2023–2027)** — machine learning, data structures and SE fundamentals — and since June 2025 I've been putting that into production as a front-end developer at **Crafting Colors**, alongside shipping products of my own.
+I'm studying **BS Software Engineering at NUML (2023–2027)**, machine learning, data structures and SE fundamentals, and since June 2025 I've been putting that into production as a front-end developer at **Crafting Colors**, alongside shipping products of my own.
 
 ```ts
 const saim = {
@@ -50,10 +50,10 @@ const saim = {
 
 <table>
 <tr>
-<td align="center" width="25%"><b>Languages</b></td>
-<td align="center" width="25%"><b>Frontend</b></td>
-<td align="center" width="25%"><b>Backend & Data</b></td>
-<td align="center" width="25%"><b>ML & Tools</b></td>
+<td align="center" width="50%"><b>Languages</b></td>
+<td align="center" width="50%"><b>Frontend</b></td>
+<td align="center" width="50%"><b>Backend & Data</b></td>
+<td align="center" width="50%"><b>ML & Tools</b></td>
 </tr>
 <tr>
 <td align="center">
