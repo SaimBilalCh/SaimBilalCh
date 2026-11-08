@@ -30,12 +30,13 @@ Currently a front-end developer at **Crafting Colors**, open to full-time roles 
 ## About
 
 I'm a full-stack developer and software/ML engineer who builds **interfaces, systems and models that ship**.
-Four years of CS gave me the theory; since June 2025 I've been putting it into production as a front-end developer at **Crafting Colors**, alongside shipping products of my own.
+I'm studying **BS Software Engineering at NUML (2023–2027)** — machine learning, data structures and SE fundamentals — and since June 2025 I've been putting that into production as a front-end developer at **Crafting Colors**, alongside shipping products of my own.
 
 ```ts
 const saim = {
   role: "Full-Stack Developer & ML Engineer",
   location: "Islamabad, Pakistan",
+  education: "BS Software Engineering, NUML (2023–2027)",
   focus: ["Web platforms", "APIs & data layers", "Applied ML"],
   stack: ["TypeScript", "Python", "React / Next.js", "FastAPI", "PostgreSQL"],
   currently: "Shipping production web apps at Crafting Colors",
