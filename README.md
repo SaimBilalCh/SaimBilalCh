@@ -48,7 +48,7 @@ const saim = {
 
 ## Tech Stack
 
-<table width="100%">
+<table style="width: 100%;">
 <tr>
 <td align="center" width="25%"><b>Languages</b></td>
 <td align="center" width="25%"><b>Frontend</b></td>
