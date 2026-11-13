@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://developwithsaim.vercel.app/Profile-Picture.jpeg" width="140" alt="Saim Bilal" style="border-radius: 50%;" />
+<img src="https://avatars.githubusercontent.com/u/178465626?v=4" width="140" alt="Saim Bilal" style="border-radius: 50%;" />
 
 # Saim Bilal
 
