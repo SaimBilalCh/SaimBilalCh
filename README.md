@@ -30,7 +30,7 @@ Currently a freelancer, still open to full-time roles and freelance work.
 ## About
 
 I'm a full-stack developer and software/ML engineer who builds **interfaces, systems and models that ship**.
-I'm studying **BS Software Engineering at NUML (2023–2027)**, machine learning, data structures and SE fundamentals, and since June 2025 I've been putting that into production as a front-end developer at **Crafting Colors**, alongside shipping products of my own.
+I'm studying **BS Software Engineering at NUML (2023–2027)**, machine learning, data structures and SE fundamentals, and since June 2024 I've been putting that into production as a web developer, alongside shipping products of my own.
 
 ```ts
 const saim = {
