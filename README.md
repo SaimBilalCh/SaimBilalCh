@@ -1,71 +1,18 @@
-<div align="center">
+# About Me:
+I'm a full-stack developer and software/ML engineer who builds interfaces, systems and models that ship. I'm studying BS Software Engineering at NUML (2023–2027), machine learning, data structures and SE fundamentals, and since June 2024 I've been putting that into production as a web developer, alongside shipping products of my own.<br>
 
-<img src="https://avatars.githubusercontent.com/u/178465626?v=4" width="140" alt="Saim Bilal" style="border-radius: 50%;" />
 
-# Saim Bilal
+## Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/saim-bilal-b0758226a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:developwithsaim@gmail.com) 
 
-**Full-Stack Developer & ML Engineer** · Islamabad, Pakistan
+# Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=plastic&logo=react%20query&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=plastic&logo=Prisma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=plastic&logo=eslint&logoColor=white) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=plastic&labelColor=171717&logoColor=5cb85c) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139)
+# GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=SaimBilalCh&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=SaimBilalCh&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=SaimBilalCh&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-I build interfaces, systems and models that ship, from production web apps to ML pipelines.<br/>
-Currently a freelancer, still open to full-time roles and freelance work.
+---
+[![](https://komarev.com/ghpvc/?username=SaimBilalCh&icon=2&color=6)](https://visitcount.itsvg.in)
 
-<a href="https://developwithsaim.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-developwithsaim-0077B5?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-</a>
-<a href="https://www.linkedin.com/in/saim-bilal-b0758226a/">
-  <img src="https://img.shields.io/badge/LinkedIn-Saim_Bilal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:developwithsaim@gmail.com">
-  <img src="https://img.shields.io/badge/Email-developwithsaim%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<br/>
-<img src="https://img.shields.io/github/followers/SaimBilalCh?style=for-the-badge&label=Followers&color=0077B5&labelColor=0D1117" alt="GitHub followers" />
-<img src="https://img.shields.io/badge/Location-Islamabad,_PK-2EA043?style=for-the-badge&labelColor=0D1117" alt="Location: Islamabad, Pakistan" />
-<img src="https://komarev.com/ghpvc/?username=SaimBilalCh&style=for-the-badge&color=0077B5&labelColor=0D1117&label=Profile+views" alt="Profile views" />
-
-</div>
-
-<br/>
-
-## About
-
-I'm a full-stack developer and software/ML engineer who builds **interfaces, systems and models that ship**.
-I'm studying **BS Software Engineering at NUML (2023–2027)**, machine learning, data structures and SE fundamentals, and since June 2024 I've been putting that into production as a web developer, alongside shipping products of my own.
-
-```ts
-const saim = {
-  role: "Full-Stack Developer & ML Engineer",
-  location: "Islamabad, Pakistan",
-  education: "BS Software Engineering, NUML (2023–2027)",
-  focus: ["Web platforms", "APIs & data layers", "Applied ML"],
-  stack: ["TypeScript", "Python", "React / Next.js", "FastAPI", "PostgreSQL"],
-  currently: "Shipping production web apps at Crafting Colors",
-  openTo: ["Full-time roles", "Freelance projects"],
-};
-```
-
-<br/>
-
-## Contribution Graph
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SaimBilalCh/SaimBilalCh/pacman-output/pacman-contribution-graph-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SaimBilalCh/SaimBilalCh/pacman-output/pacman-contribution-graph.svg" />
-  <img alt="Contribution graph" src="https://raw.githubusercontent.com/SaimBilalCh/SaimBilalCh/pacman-output/pacman-contribution-graph.svg" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SaimBilalCh/SaimBilalCh/snake-output/snake.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SaimBilalCh/SaimBilalCh/snake-output/snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/SaimBilalCh/SaimBilalCh/snake-output/snake.svg" />
-</picture>
-
-</div>
-
-<br/>
-
-<div align="center">
-  <sub>Building things that work, reach me at <a href="mailto:developwithsaim@gmail.com">developwithsaim@gmail.com</a></sub>
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
